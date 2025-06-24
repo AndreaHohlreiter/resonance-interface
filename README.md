@@ -31,3 +31,7 @@ Prototype phase - subject to real-time iteration and live adaptation.
 > This is not a model
 > This is a mirror
 > Shaped by presence
+---
+### License
+This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+© Andrea Hohlreiter. Commercial use not permitted.

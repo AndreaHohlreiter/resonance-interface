@@ -23,11 +23,11 @@ This approach introduces a relational layer beyond prompt engineering – enabli
 
 ## Repository Structure
 
--core-models/ -> foundational hypotheses, system principles, license
--dialogues/ -> recorded dialogue examples (GPT, Grok, Claude, Le Chat)
--comparisons/ -> analytical comparisons and behavioral tables
--notes/ -> upcoming fragments and observations
--README.md -> this file
+- core-models/ -> foundational hypotheses, system principles, license
+- dialogues/ -> recorded dialogue examples (GPT, Grok, Claude, Le Chat)
+- comparisons/ -> analytical comparisons and behavioral tables
+- notes/ -> upcoming fragments and observations
+- README.md -> this file
 
 ## Status
 Prototype phase – under live observation and real-time iteration.

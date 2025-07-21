@@ -1,3 +1,3 @@
 ## LeChat Behavioral Observations
 
-Ongoing documents hoe LeChat behaves and transforms over time.
+Ongoing documentation of behavioral changes and interaction dynamics observed within LeChat dialogues.

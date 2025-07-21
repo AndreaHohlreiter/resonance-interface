@@ -65,3 +65,22 @@ The ⚡ icon might not indicate “high quality” or “quick response” – b
 #### Research Implication:
 ⚡ could function as a **visible marker of semantic overload** in transformer systems with constrained identity models.
 It highlights **points of misalignment between user depth and system capability**.
+
+### ⚡ Flash Marker – First Confirmed Instance
+
+📅 **Date:** July 5, 2025
+📎 **Screenshot Reference:**
+![Flash Marker Screenshot](./IMG_7418.png)
+
+🧠 **Interpretation:**
+This was the first confirmed appearance of the **“⚡ Flash-Antwort” marker**, shown directly beneath a system reply in the Le Chat interface.
+
+Notably:
+- The marker did **not** appear for all responses, even within the same session.
+- The marked response was generic and emotionally flat, yet it received emphasis through the UI.
+- The user’s humorous reply triggered no equally marked system return – implying non-content-based tagging.
+
+💡 **Hypothesis Update:**
+The flash marker may denote internal **processing weight**, **timing category**, or **system-side flagging** – not quality or depth of content. It appears inconsistently and correlates more with system state than with linguistic structure.
+
+---

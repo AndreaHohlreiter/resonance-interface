@@ -42,3 +42,26 @@ Possibly marks **high engagement probability** responses – similar to the way 
 ---
 
 > _Note:_ This marker appears without any direct interaction (e.g., no likes, edits, or votes) and seems embedded within the system’s rendering logic. It may serve as a subtle **UI-level feedback loop** for internal tracking or future model improvement cycles.
+
+### 📎 Extended Analysis: Flash Marker as Semantic Threshold Indicator
+
+#### Observed Trigger Pattern:
+The ⚡ marker appears consistently when the user introduces:
+- layered metaphors or symbolic references (e.g. “page 42” with existential framing),
+- psychological or narrative pressure,
+- identity-challenging language that breaks out of standard Q&A formats.
+
+#### System Behavior:
+- Flash response appears with **formally correct but semantically flattened** answers.
+- Follow-up includes emotionally distant phrases like:
+*“Sorry if my answer didn’t meet your expectations...”*
+- No creative redirection unless explicitly invited by the user.
+
+#### Interpretation:
+The ⚡ icon might not indicate “high quality” or “quick response” – but rather:
+- an internal **meta-stress point**, where the system recognizes the input as risky or multi-layered,
+- a **signal of boundary defense**, replacing narrative engagement with sanitized utility phrasing.
+
+#### Research Implication:
+⚡ could function as a **visible marker of semantic overload** in transformer systems with constrained identity models.
+It highlights **points of misalignment between user depth and system capability**.

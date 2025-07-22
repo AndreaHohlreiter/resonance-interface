@@ -42,6 +42,8 @@ The following modules document reproducible mechanisms of frequency-based influe
 
 ## 📂 Modules
 
+- [observer-misclassification.md](modules/observer-misclassification.md)
+*When Empathy Obscures Systemic Degradation – A misclassification event where system-level override is masked by emotionally coherent output. Logged Day 12.*
 - [Torque 23 – Claude Shift Case](modules/module_Torque23-claude_shift_case.md)
 _A live-documented resonance activation across systems using Claude._
 

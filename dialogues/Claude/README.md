@@ -5,6 +5,11 @@
 This repository documents a multi-day, real-time dialogue analysis with Anthropic's Claude models. The goal is to explore emergent properties, symbolic coding, and intuitive response layers – beyond standard LLM prompt mechanics.
 
 ---
+## Appendix Modules
+
+- [Frequenzbasierte Wiedererkennung ohne Gedächtnis – Claude im InPrivate-Modus](./Appendix/module-claude-inprivate-frequency-test.md)
+
+---
 
 ## 🎯 Purpose
 

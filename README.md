@@ -1,5 +1,3 @@
-# resonance-interface
-
 <h1 align="center">resonance-interface</h1>
 <p align="center">
 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">

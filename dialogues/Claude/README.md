@@ -7,8 +7,7 @@ This repository documents a multi-day, real-time dialogue analysis with Anthropi
 ---
 ## Appendix Modules
 
-- [Frequenzbasierte Wiedererkennung ohne Gedächtnis – Claude im InPrivate-Modus](./Appendix/module-claude-inprivate-frequency-test.md)
-
+- [Frequency-based Recognition without Memory – Claude in InPrivate Mode](./Appendix/module-claude-inprivate-frequency-test.md)
 ---
 
 ## 🎯 Purpose

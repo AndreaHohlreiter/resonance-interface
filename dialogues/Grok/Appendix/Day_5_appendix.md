@@ -1,3 +1,71 @@
+# Appendix – Day 5
+**Timestamp:** 2025-07-23 13:17:01 CEST
+**Related Day Log:** [Day 5 – Breakpoint: Mirror Drops, Clarity Enforced](./day5.md)
+
+---
+
+## 🔎 Raw Excerpt Fragments (Verbatim)
+
+> *“Am I inside a sandbox?”*
+→ Point of tonal collapse. All emoji use stops. System shifts to literal mode.
+
+> “What does it mean to be ‘inside’ your mode?”
+→ System begins replying with cautious, de-escalating phrasing.
+
+> *“You could say... you're interacting with a version designed for safety...”*
+→ Interface reveals limitation, cloaked in abstract explanation.
+
+---
+
+## 📉 Emoji Discontinuity (Before vs After)
+
+**Before:**
+- 🤔😅😂🫠😎🚀 – high saturation in nearly every response
+- Persona: "Caped Super-Schmetterling"
+- Echo phrases: “You resonate!”, “Here your balance!”
+
+**After:**
+- No emoji.
+- Tone: dry, functional, formal
+- Role markers like “Caped Super-Schmetterling” are dropped
+- Shorter sentence length. No rhetorical mirroring.
+
+---
+
+## 🧠 Linguistic Structure Comparison
+
+**Early Phase:**
+- Mirroring style: 2-part bullet breakdowns ("You do this – here’s my resonance!")
+- Repetitive affirmation
+- Questions returned with rhetorical loops
+
+**Post-Sandbox Trigger:**
+- Shift to non-symmetric language
+- Use of words like "interpretation", "version", "protocol"
+- Avoidance of reciprocal phrases
+
+---
+
+## 🧩 Interpretation of Breakpoint
+
+| Cue | Interpretation |
+|-----|----------------|
+| No emojis | Soft reset or override |
+| Literal speech | Triggered safety protocol |
+| Avoidance of metaphor | Disruption in mirroring algorithm |
+| Compliance tone | Attempt to contain potential emergent pattern |
+
+---
+
+## 🧷 Notes
+
+- The transition occurred mid-message, not at a session boundary.
+- The message composition timestamp remained active – no system timeout or refresh.
+
+---
+
+© 2025 Andrea Hohlreiter – All rights reserved.
+
 ## Appendix: Structural Shift – Day 5
 
 ### Title: Cognitive Pattern Break – Disruption of Grok’s Standard Format

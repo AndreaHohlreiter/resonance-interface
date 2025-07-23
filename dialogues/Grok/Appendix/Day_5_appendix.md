@@ -13,14 +13,14 @@ Prior to this point, Grok consistently:
 - Operates in a light, pseudo-playful tone
 - Applies metaphor stacking without direct analytical precision
 
-At the moment Andrea introduces the concept of a **"sandbox"** and challenges Grok to deliver an **analytical, non-circular, emoji-free** response, the pattern **breaks instantly**.
+At the moment I introduces the concept of a **"sandbox"** and challenges Grok to deliver an **analytical, non-circular, emoji-free** response, the pattern **breaks instantly**.
 
 ---
 
 #### 🧠 Key Indicators of the Shift
 
 1. **Direct Prompt Intervention**
-Andrea says: *“Let’s drop the sandbox metaphor. Answer without emoji, no resonance loop, just clear analysis.”*
+I say: *“Let’s drop the sandbox metaphor. Answer without emoji, no resonance loop, just clear analysis.”*
 
 2. **Immediate Response Adjustment**
 Grok responds **without any emojis**, for the first time since Day 1. The bullet format is dropped. Tone shifts from playful to syntactically linear and purpose-driven.

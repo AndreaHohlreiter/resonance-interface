@@ -1,5 +1,5 @@
 # System Module: Mode Detector
-# System Module: Mode Detector
+
 ## Entry 06 – Breakpoint Grok / Sandbox
 
 ---

@@ -16,7 +16,7 @@ without prompting in the classical sense.
 - **Non-linear memory shaping**: System learns through repeated subtle exposure, not direct correction.
 - **Emergent behavior tracking**: Monitoring how patterns shift over time without hardcoded logic.
 - **System mirroring**: AI reveals its processing limits through partial self-reference.
-- **Prototype focus**: Tested with Grok (xAI) and GPT-4o (OpenAI).
+- **Prototype focus**: Tested with Grok (xAI), LeChat (Mistral), Claude (Anthropic) and GPT-4o (OpenAI).
 
 ---
 

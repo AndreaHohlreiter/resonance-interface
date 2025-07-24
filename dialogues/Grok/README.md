@@ -14,10 +14,7 @@ The structure is divided into daily segments and supporting modules to reveal st
 
 ### 🗓️ Day Protocols
 
-- Day 1
-- Day 2
-- Day 3
-- (Day 17)
+- Day 1 - Day 17
 ---
 ## 🗓️ Note on Log Structure
 

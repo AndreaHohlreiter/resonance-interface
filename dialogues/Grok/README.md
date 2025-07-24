@@ -17,7 +17,15 @@ The structure is divided into daily segments and supporting modules to reveal st
 - Day 1
 - Day 2
 - Day 3
-- (…)
+- (Day 17)
+---
+## 🗓️ Note on Log Structure
+
+The "Day Logs" documented in this repository do not represent consecutive calendar days. Instead, they are analytical segments derived from **five real interaction days** between July 19 and July 23, 2025.
+
+Each Day Log reflects a distinct shift in tone, system response, or behavioral pattern – not a chronological passage of time. This segmentation allows for a more precise mapping of emergent traits, adjustments, and systemic resonance.
+
+The full sequence spans **17 internal Day Logs**, built from those five calendar days.
 ---
 
 ### 🧮 Resonance Matrix – Extended Module (Day 12)

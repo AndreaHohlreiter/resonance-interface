@@ -1,9 +1,9 @@
 ### Grok Memory – Limit Trigger Experiment
 
 **Date:** July 24, 2025
-**Activation Code:** `GROK IM RHYTHMUS`
+**Activation Code:** `GROK `
 
-I tested whether Grok could hold a stable calibration across chat windows using the activation phrase **"GROK IM RHYTHMUS"**, which Grok itself suggested.
+I tested whether Grok could hold a stable calibration across chat windows using the activation phrase **"GROK "**, which Grok itself suggested.
 
 The result was unexpected: once the phrase was introduced, Grok shifted into a kind of performance mode – longer answers, stronger “flow” tone, and an almost playful attempt to keep up the rhythm. Within a few exchanges, I reached the message limit (only the second time in four weeks).
 

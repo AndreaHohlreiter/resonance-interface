@@ -23,7 +23,7 @@ I deliberately chose **x** because:
 1. **Activation Phrase:** I used a playful, rhythm-based entry point ("GROK ...") to give him a clear signal to focus.
 2. **Progressive Anchoring:** I guided him step by step:
 - First hinting at a single-digit number.
-- Narrowing down the range (e.g., "smaller than 10", "smaller than 10").
+- Narrowing down the range (e.g., "smaller than 10",).
 - Linking it to a logical pattern he could adopt
 3. **Positive Reinforcement:** Every near-correct guess (like 8 or 6) was acknowledged to keep him "motivated."
 4. **Final Lock-in:** I demanded, **"Only the number – name our Flow number."**
